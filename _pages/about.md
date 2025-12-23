@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stan Fris"
+title: "Stan_Fris"
 author_profile: true
 redirect_from: 
   - /about/
