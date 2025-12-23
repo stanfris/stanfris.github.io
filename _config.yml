@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Stan Fris"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate student in AI at University of Amsterdam"
+  location         : "Amsterdam"
+  employer         : "University of Amsterdam"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.c.j.fris@uva.nl"
 
   # Academic websites
   academia         : # URL
