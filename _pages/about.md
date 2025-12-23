@@ -13,26 +13,23 @@ I am a second year Graduate student in Artificial Intelligence at the University
 ## Publications
 
 ### A Systematic Reproducibility Study of BSARec for Sequential Recommendation
-Jan Hutter*, Hua Chang Bakker*, **Stan Fris***, Angela Madelon Bernardy*, Yuanna Liu  
+Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yuanna Liu  
 \*equal contribution, to appear in ECIR 2026 Proceedings  
 *European Conference on Information Retrieval (ECIR)* 
 **Year:** 2026  
 [**Preprint:**](https://arxiv.org/abs/2512.17442) [**Code:**](https://github.com/Janhutter/BSARec)
+
 ------
 
-## Research Projects
+## Featured Research Projects
 
 ### Practical Identifiability in Unbiased Learning to Rank (JAX, Flax (NNX))
 During a research internship with Philipp Hager at the Information Retrieval Lab at the University of Amsterdam (UvA), I independently researched how identifiability can be diagnosed in Two-Tower models using a framework inspired by bioinformatics.  
 **Status:** Manuscript in preparation for SIGIR 2026  
 
----
-
 ### Fairness of Vision-Language Models in Healthcare (PyTorch)
 Conducted a reproducibility study of a paper introducing a framework for improving group fairness of CLIP. We expanded the original framework to account for multiple types of group fairness simultaneously, enhancing the model’s flexibility.  
 **Resources:** [Paper](https://arxiv.org/abs/2509.06535) | [GitHub](https://github.com/stanfris/FairCLIP_Reproducibility)  
-
----
 
 ### Domain Adaptation for Low-Resource Biomedical Translation (PyTorch)
 Worked on Low-Resource Neural Machine Translation and expanded open directions in Domain Adaptation by adapting LESS, a framework from instruction tuning for data selection, to domain adaptation in translation tasks.  
