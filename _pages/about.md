@@ -17,7 +17,7 @@ Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yu
 \*equal contribution, to appear in ECIR 2026 Proceedings  
 *European Conference on Information Retrieval (ECIR)* 
 **Year:** 2026  
-[**Preprint:**](https://arxiv.org/abs/2512.17442) [**Code:**](https://github.com/Janhutter/BSARec)
+**Resources:** [**Preprint**](https://arxiv.org/abs/2512.17442) | [**Code**](https://github.com/Janhutter/BSARec)
 
 ------
 
