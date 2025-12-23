@@ -9,10 +9,19 @@ redirect_from:
 
 I am a second year Graduate student in Artificial Intelligence at the University of Amsterdam with a strong research focus on Natural Language Processing and Information Retrieval. Experienced with state-of-the-art machine learning methods, including LLM fine-tuning, LLM-based rewriting, and conversational search. Research experience includes projects in learning to rank, recommendation systems, and robust neural retrieval models. My future interest lies in bridging theory and practice, and tackling new challenges. 
 
-======
+------
 ## Publications
-======
 
+# A Systematic Reproducibility Study of BSARec for Sequential Recommendation
+
+**Authors:** Jan Hutter*, Hua Chang Bakker*, **Stan Fris***, Angela Madelon Bernardy*, Yuanna Liu  
+\*equal contribution, to appear in ECIR 2026 Proceedings  
+
+**Conference:** European Conference on Information Retrieval (ECIR)  
+**Year:** 2026  
+
+**Preprint:** [arXiv:2512.17442](https://arxiv.org/abs/2512.17442)  
+**Code:** [GitHub Repository](https://github.com/Janhutter/BSARec)
 ------
 
 **Markdown generator**
