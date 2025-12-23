@@ -9,7 +9,6 @@ redirect_from:
 
 Hi! Im a Second year Graduate student in Artificial Intelligence at the University of Amsterdam. I have a strong research focus on Natural Language Processing and Information Retrieval. Experienced with state-of-the-art machine learning methods, including LLM fine-tuning, LLM-based rewriting, and conversational search. Research experience includes projects in learning to rank, recommendation systems, and robust neural retrieval models. My future interest lies in bridging theory and practice, and tackling new challenges. 
 
-------
 ## Publications
 
 ### A Systematic Reproducibility Study of BSARec for Sequential Recommendation
@@ -19,7 +18,6 @@ Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yu
 **Year:** 2026  
 **Resources:** [**Preprint**](https://arxiv.org/abs/2512.17442) | [**Code**](https://github.com/Janhutter/BSARec)
 
-------
 
 ## Featured Research Projects
 
@@ -40,3 +38,7 @@ Worked on Low-Resource Neural Machine Translation and expanded open directions i
 **Resources:** [Paper](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/blob/main/Robust_Domain_Adaptation_for_Low_Resource_Biomedical_Translation.pdf
 ) | [GitHub](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/tree/main)  
 
+## Teaching
+
+### Teaching Assistant, University of Amsterdam
+2023-Present
