@@ -38,7 +38,16 @@ Worked on Low-Resource Neural Machine Translation and expanded open directions i
 **Resources:** [Paper](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/blob/main/Robust_Domain_Adaptation_for_Low_Resource_Biomedical_Translation.pdf
 ) | [GitHub](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/tree/main)  
 
-## Teaching
+## Teaching and Services
 
 ### Teaching Assistant, University of Amsterdam
+**2023-Present**
+Teaching courses in the Bachelor AI at the University of Amsterdam. Experience in teaching courses in topics including but not limited to: Calculus, Machine Learning, Natural Language Processing, and Computational Logic
+
+### Programme Committee MSc Artificial Intelligence 
 2023-Present
+Member of the Programme Committee of the MSc Artificial Intelligence at the University of Amsterdam. Focus on quality of teaching, gathering course feedback and onboarding of new members. 
+
+### Faculty Student Council - Chair
+2022-2023
+Chair of the Faculty Student Council of the UvA at the Faculty of Science, for one year, I chaired meetings, held contact with the Directive Board, Workers Council and Central Student Council. Personal files included diversity, inclusivity and events. 
