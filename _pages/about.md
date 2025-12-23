@@ -12,14 +12,11 @@ I am a second year Graduate student in Artificial Intelligence at the University
 ------
 ## Publications
 
-# A Systematic Reproducibility Study of BSARec for Sequential Recommendation
-
-**Authors:** Jan Hutter*, Hua Chang Bakker*, **Stan Fris***, Angela Madelon Bernardy*, Yuanna Liu  
+### A Systematic Reproducibility Study of BSARec for Sequential Recommendation
+Jan Hutter*, Hua Chang Bakker*, **Stan Fris***, Angela Madelon Bernardy*, Yuanna Liu  
 \*equal contribution, to appear in ECIR 2026 Proceedings  
-
-**Conference:** European Conference on Information Retrieval (ECIR)  
+*European Conference on Information Retrieval (ECIR)* 
 **Year:** 2026  
-
 [**Preprint:**](https://arxiv.org/abs/2512.17442) [**Code:**](https://github.com/Janhutter/BSARec)
 ------
 
