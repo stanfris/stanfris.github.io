@@ -13,11 +13,13 @@ Hi! Im a Second year Graduate student in Artificial Intelligence at the Universi
 ### Diagnosing Identifiability in Two-Tower Models for Unbiased Learning to Rank	
 Stan Fris, Philipp Hager
 ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026
+
 **Resources:** [**Paper**](/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf) | [**Code**](https://github.com/stanfris/practical-identifiability-ultr)
 
 ### Improving the Efficiency and Effectiveness of LLM Knowledge Distillation for Conversational Search 	
 Stan Fris, Jan Hutter, Jan-Henrik Bertrand, Simon Lupart, Mohammad Aliannejadi
 The SCAI Workshop at the 49th ACM SIGIR Conference, 2026
+
 **Resources:** [**Paper**](/files/SCAI_2026__Improving_the_Efficiency_and_Effectiveness_of_LLM_Knowledge_Distillation_for_Conversational_Search-3.pdf) | [**Code**](https://github.com/stanfris/practical-identifiability-ultr)
 
 
@@ -25,6 +27,7 @@ The SCAI Workshop at the 49th ACM SIGIR Conference, 2026
 Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yuanna Liu  
 *European Conference on Information Retrieval (ECIR)* \*equal contribution 
 **Year:** 2026  
+
 **Resources:** [**Paper**](/files/ECIR_2026_Reproduction_BSARec-13.pdf) | [**Code**](https://github.com/Janhutter/BSARec)
 
 ## Featured Research Projects
