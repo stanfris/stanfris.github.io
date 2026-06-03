@@ -47,25 +47,25 @@ Worked on Low-Resource Neural Machine Translation and expanded open directions i
 
 ## Experience
 
-## Intern, Information Retrieval Lab - University of Amsterdam. 
-**2025-Present**
-Personal Research internship with Philipp Hager of the Information Retrieval Lab at the University of Amsterdam. Working on on diagnosing of identifiability in Two-Tower models.  
+### Intern, Information Retrieval Lab - University of Amsterdam. 
+**August 2025- January 2026**
+Research internship with Philipp Hager of the Information Retrieval Lab at the University of Amsterdam. Developed analysis framework for click modelling for search.
 
 ### Teaching Assistant, University of Amsterdam
-**2023-Present**
+**September 2023-Present**
 Teaching courses in the Bachelor AI at the University of Amsterdam. Experience in teaching courses in topics including but not limited to: Calculus, Machine Learning, Natural Language Processing, and Computational Logic
 
-ProRail
-2023-2024
-Bachelor Thesis internship at ProRail, conducted research in 
+### ProRail
+**October 2023- March 2024**
+Independently developed a predictive planning algorithm for Railway maintenance. Worked on time-series modelling with LSTMs and deterministic Max-SAT planning.
 
 ## Teaching and Services
 
 ### Programme Committee MSc Artificial Intelligence 
-2023-Present
+**December 2023-Present**
 Member of the Programme Committee of the MSc Artificial Intelligence at the University of Amsterdam. Focus on quality of teaching, gathering course feedback and onboarding of new members. 
 
 ### Faculty Student Council - Chair
-2022-2023
+**September 2022- September 2023**
 Chair of the Faculty Student Council of the UvA at the Faculty of Science, for one year, I chaired meetings, held contact with the Directive Board, Workers Council and Central Student Council. Personal files included diversity, inclusivity and events. 
 
