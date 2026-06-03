@@ -11,7 +11,7 @@ Hi! Im a Second year Graduate student in Artificial Intelligence at the Universi
 
 ## Publications
 ### Diagnosing Identifiability in Two-Tower Models for Unbiased Learning to Rank	
-**Stan Fri**, Philipp Hager  
+**Stan Fris**, Philipp Hager  
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2026
 
 **Resources:** [**Paper**](/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf) | [**Code**](https://github.com/stanfris/practical-identifiability-ultr)
