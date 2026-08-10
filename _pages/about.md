@@ -14,32 +14,32 @@ Hi! Im a Second year Graduate student in Artificial Intelligence at the Universi
 **Stan Fris**, Philipp Hager  
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2026
 
-**Resources:** [**Paper**](/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf) | [**Code**](https://github.com/stanfris/practical-identifiability-ultr)
+**Resources:** <a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank_Slides.pdf"><i class="fas fa-desktop"></i> Slides</a><a class="btn-pub" href="https://www.youtube.com/watch?v=QZUxUbQ1asw" target="_blank"><i class="fab fa-youtube"></i> Video</a>
 
 ### Improving the Efficiency and Effectiveness of LLM Knowledge Distillation for Conversational Search 	
 **Stan Fris**, Jan Hutter, Jan-Henrik Bertrand, Simon Lupart, Mohammad Aliannejadi  
 *The SCAI Workshop at the 49th ACM SIGIR Conference*, 2026
 
-**Resources:** [**Paper**](/files/SCAI_2026__Improving_the_Efficiency_and_Effectiveness_of_LLM_Knowledge_Distillation_for_Conversational_Search-3.pdf) | [**Code**](https://github.com/stanfris/practical-identifiability-ultr)
+**Resources:** <a class="btn-pub" href="/files/SCAI_2026__Improving_the_Efficiency_and_Effectiveness_of_LLM_Knowledge_Distillation_for_Conversational_Search-3.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SCAI_2026_poster-6.pdf"><i class="fas fa-image"></i> Poster</a>
 
 
 ### A Systematic Reproducibility Study of BSARec for Sequential Recommendation
 Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yuanna Liu \*equal contribution  
 *European Conference on Information Retrieval (ECIR)*, 2026
 
-**Resources:** [**Paper**](/files/ECIR_2026_Reproduction_BSARec-13.pdf) | [**Code**](https://github.com/Janhutter/BSARec)
+**Resources:** <a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec-13.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/Janhutter/BSARec" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec_Slides.pdf"><i class="fas fa-desktop"></i> Slides</a>
 
 ## Featured Research Projects
 
 ### Fairness of Vision-Language Models in Healthcare (PyTorch)
 Conducted a reproducibility study of a paper introducing a framework for improving group fairness of CLIP. We expanded the original framework to account for multiple types of group fairness simultaneously, enhancing the model’s flexibility.  
 
-**Resources:** [Paper](https://arxiv.org/abs/2509.06535) | [GitHub](https://github.com/stanfris/FairCLIP_Reproducibility)  
+**Resources:** <a class="btn-pub" href="https://arxiv.org/abs/2509.06535" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/FairCLIP_Reproducibility" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 
 ### Domain Adaptation for Low-Resource Biomedical Translation (PyTorch)
 Worked on Low-Resource Neural Machine Translation and expanded open directions in Domain Adaptation by adapting LESS, a framework from instruction tuning for data selection, to domain adaptation in translation tasks.  
 
-**Resources:** [Paper](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/blob/main/Robust_Domain_Adaptation_for_Low_Resource_Biomedical_Translation.pdf) | [GitHub](https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/tree/main)  
+**Resources:** <a class="btn-pub" href="https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/blob/main/Robust_Domain_Adaptation_for_Low_Resource_Biomedical_Translation.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/tree/main" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 
 ## Experience
 
