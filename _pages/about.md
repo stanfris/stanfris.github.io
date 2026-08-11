@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Im a Recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I have experience with working as a researcher, mainly working on information retrieval, in learning from user interactions, fairness and robustness, and large language models. 
+Hi! I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo, Japan and a recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I have experience with working as a researcher, mainly working on information retrieval, in learning from user interactions, fairness and robustness, and large language models. I'm currently looking for PhD and Industry Research positions!
 
 ## Selected Publications
 
@@ -41,57 +41,3 @@ Worked on LLM fine-tuning for domain adaptation of neural translation models in 
 
 **Resources:** <a class="btn-pub" href="https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/blob/main/Robust_Domain_Adaptation_for_Low_Resource_Biomedical_Translation.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/Robust-Domain-Adaptation-for-Low-Resource-NMT/tree/main" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 
-## Experience
-
-### Visiting Research Intern
-**National Institute of Informatics (NII)** – Tokyo, Japan  
-*August 2026 – December 2026*  
-* Developing a benchmark for scientific paper re-finding using multimodal and textual document representations.
-* Building LLM-assisted dataset construction and evaluation pipelines for scientific information retrieval.
-
-### Research Intern
-**University of Amsterdam** – Amsterdam, Netherlands  
-*August 2025 – January 2026*  
-* Developed a practical framework for diagnosing identifiability in neural two-tower click models using JAX/Flax.
-* Evaluated the method on synthetic and real-world click data, analyzing when relevance and position-bias parameters can be reliably identified.
-* Resulted in a full paper accepted at SIGIR 2026.
-
-### Machine Learning Intern
-**ProRail** – Utrecht, Netherlands  
-*October 2023 – March 2024*  
-* Developed a predictive maintenance-planning system for the Dutch railway network using time-series forecasting and optimization.
-* Combined LSTM-based predictions with deterministic Max-SAT planning to support maintenance scheduling.
-
-### Teaching Assistant and Tutor
-**University of Amsterdam** – Amsterdam, Netherlands  
-*August 2023 – July 2026*  
-* Teaching-Assistant in the Bachelor Artificial Intelligence, teaching courses on topics including machine learning, Calculus, and Natural Language Processing.
-* Independently taught tutorials and seminars for classes of approximately 25 students.
-* Organized courses working with companies, guided student-stakeholder contact.
-
-## Skills
-
-* **Programming:** Python, C, C++, SQL
-* **ML Frameworks:** PyTorch, JAX, Flax (NNX), Hugging Face
-* **Systems & Tools:** Slurm, Linux, Weights & Biases, Git, Hydra
-* **Languages:** Dutch (Native), English (Fluent)
-
-## Activities
-
-### Education Committee Artificial Intelligence
-**University of Amsterdam** – Amsterdam, Netherlands  
-*October 2023 – Present*  
-* Represent student interests in programme-level discussions on curriculum and education quality.
-* Communicated with the Programme Director, overseeing education quality and consistency.
-
-### Faculty Student Council - Chair
-**University of Amsterdam** – Amsterdam, Netherlands  
-*September 2022 – September 2023*  
-* Chaired the council and represented students in discussions with faculty leadership and university governance bodies.
-* Worked on files including diversity, inclusivity, and events.
-
-## Grants & Awards
-
-* **SIGIR Student Travel Grant** | 2026
-* **ELLIS & Qualcomm Student Travel Grant** | 2026
-* **MSc Artificial Intelligence Student Travel Grant** | 2026
