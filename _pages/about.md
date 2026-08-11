@@ -7,18 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Im a Second year Graduate student in Artificial Intelligence at the University of Amsterdam. I have a strong research focus on Natural Language Processing and Information Retrieval. Experienced with state-of-the-art machine learning methods, including LLM fine-tuning, LLM-based rewriting, and conversational search. Research experience includes projects in learning to rank, recommendation systems, and robust neural retrieval models. My future interest lies in bridging theory and practice, and tackling new challenges. 
-
-## Education
-
-### University of Amsterdam
-**MSc in Artificial Intelligence** | September 2024 - June 2026  
-* GPA: 8.4/10  
-* Thesis: Feature-Based Propensity estimation for Unbiased Learning to Rank (Grade: 9.0) — Supervisor: Dr. Harrie Oosterhuis
-
-**BSc in Artificial Intelligence** | September 2021 - June 2024  
-* GPA: 8.7/10 (Cum Laude)  
-* Thesis: Predictive Railway maintenance planning (Grade: 8.5) — Supervisor: Dr. Gregor Behnke
+Hi! Im a Recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I have experience with working as a researcher, mainly working on information retrieval, in learning from user interactions, fairness and robustness, and large language models. 
 
 ## Publications
 
