@@ -9,11 +9,7 @@ redirect_from:
 
 Hi! Im a Recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I have experience with working as a researcher, mainly working on information retrieval, in learning from user interactions, fairness and robustness, and large language models. 
 
-## Publications
-
-### Feature-based Propensities for Counterfactual Learning to Rank
-**Stan Fris**, David Vos, Harrie Oosterhuis  
-*Under Review*, 2026
+## Selected Publications
 
 ### Diagnosing Identifiability in Two-Tower Models for Unbiased Learning to Rank
 **Stan Fris**, Philipp Hager  
