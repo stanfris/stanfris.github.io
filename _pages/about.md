@@ -14,20 +14,20 @@ Hi! Im a Second year Graduate student in Artificial Intelligence at the Universi
 **Stan Fris**, Philipp Hager  
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2026
 
-**Resources:** <a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank_Slides.pdf"><i class="fas fa-desktop"></i> Slides</a><a class="btn-pub" href="https://www.youtube.com/watch?v=QZUxUbQ1asw" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+**Resources:** <a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank_Slides.pdf" target="_blank"><i class="fas fa-desktop"></i> Slides</a><a class="btn-pub" href="https://www.youtube.com/watch?v=QZUxUbQ1asw" target="_blank"><i class="fab fa-youtube"></i> Video</a>
 
 ### Improving the Efficiency and Effectiveness of LLM Knowledge Distillation for Conversational Search 	
 **Stan Fris**, Jan Hutter, Jan-Henrik Bertrand, Simon Lupart, Mohammad Aliannejadi  
 *The SCAI Workshop at the 49th ACM SIGIR Conference*, 2026
 
-**Resources:** <a class="btn-pub" href="/files/SCAI_2026__Improving_the_Efficiency_and_Effectiveness_of_LLM_Knowledge_Distillation_for_Conversational_Search-3.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SCAI_2026_poster-6.pdf"><i class="fas fa-image"></i> Poster</a>
+**Resources:** <a class="btn-pub" href="/files/SCAI_2026__Improving_the_Efficiency_and_Effectiveness_of_LLM_Knowledge_Distillation_for_Conversational_Search-3.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SCAI_2026_poster-6.pdf" target="_blank"><i class="fas fa-image"></i> Poster</a>
 
 
 ### A Systematic Reproducibility Study of BSARec for Sequential Recommendation
 Jan Hutter\*, Hua Chang Bakker\*, **Stan Fris**\*, Angela Madelon Bernardy\*, Yuanna Liu \*equal contribution  
 *European Conference on Information Retrieval (ECIR)*, 2026
 
-**Resources:** <a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec-13.pdf"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/Janhutter/BSARec" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec_Slides.pdf"><i class="fas fa-desktop"></i> Slides</a>
+**Resources:** <a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec-13.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/Janhutter/BSARec" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/ECIR_2026_Reproduction_BSARec_Slides.pdf" target="_blank"><i class="fas fa-desktop"></i> Slides</a>
 
 ## Featured Research Projects
 
