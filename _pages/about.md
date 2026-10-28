@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo, Japan and a recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I have experience with working as a researcher, mainly working on information retrieval, in learning from user interactions, fairness and robustness, and large language models. I'm currently looking for PhD and Industry Research positions!
+Hi! I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo, Japan and a recent MSc Graduate in Artificial Intelligence at the University of Amsterdam. I am experienced in Information Retrieval and Machine Learning research, including but not limited to: Learning to Rank, Large Language Models, Fairness and Robustness in Deep Learning, and Multimodal Retrieval. I'm currently looking for PhD and Industry Research positions!
 
 ## Selected Publications
 
@@ -16,6 +16,12 @@ Hi! I am currently a visiting researcher at the National Institute of Informatic
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2026
 
 **Resources:** <a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank-4.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/practical-identifiability-ultr" target="_blank"><i class="fab fa-github"></i> Code</a><a class="btn-pub" href="/files/SIGIR_2026_Diagnosing_Identifiability_in_Two_Tower_Models_for_Unbiased_Learning_to_Rank_Slides.pdf" target="_blank"><i class="fas fa-desktop"></i> Slides</a><a class="btn-pub" href="https://www.youtube.com/watch?v=QZUxUbQ1asw" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+
+### Feature-based Propensities for Counterfactual Learning to Rank
+**Stan Fris**, David Vos, Harrie Oosterhuis  
+*ACM SIGIR Conference on Information Retrieval in the Asia Pacific region (SIGIR-AP)*, 2026
+
+**Resources:** <a class="btn-pub" href="/files/SIGIR_AP_2026_Feature_based_propensity_optimization_for_Counterfactual_learning_to_Rank-18.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a><a class="btn-pub" href="https://github.com/stanfris/feature-based-propensities-for-counterfactual-ltr" target="_blank"><i class="fab fa-github"></i> Code</a>
 
 ### Improving the Efficiency and Effectiveness of LLM Knowledge Distillation for Conversational Search
 **Stan Fris**, Jan Hutter, Jan-Henrik Bertrand, Simon Lupart, Mohammad Aliannejadi  
